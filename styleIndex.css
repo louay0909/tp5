@@ -1,0 +1,51 @@
+body{
+   background-color: aqua;
+   font-family: Arial, sans-serif;
+   margin: 10px;
+   padding: 20px;
+}
+h1{
+   text-align: center;
+   color: blueviolet ;
+}
+.carte{
+  width: 500px;
+  padding: 25px;
+  margin: 30px auto;
+  border-radius: 15px;
+  background-color:red;
+  box-sizing: 0  8px 20px  black;
+  position: relative;
+}
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 15PX auto;  
+}
+h2{
+    color: black;
+}
+h3{
+    text-align: center;
+    font-size: 16px;
+    color: rgb(140, 127, 255);
+    margin-bottom: 15px;
+}
+.badge{
+    position: absolute;
+    top: 15px;
+    background-color: aquamarine;
+    object-fit: cover;
+    box-shadow: 0 8px 20px black;
+    border-radius: 10px;
+}
+ .carte ul{
+    padding-left: 20px;
+    color: darkcyan;
+}
+  
+.carte ul li{
+    margin-bottom: 15px ;
+}

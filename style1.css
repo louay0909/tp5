@@ -1,0 +1,22 @@
+
+table{
+    margin: auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid black;
+    text-align:center;
+    padding: 12px;
+}
+
+tr{
+    border: 2px solid black;
+}
+td:hover{
+    color: aqua;
+}
+th{
+    background-color: red;
+    border: 2px solid black;
+}
